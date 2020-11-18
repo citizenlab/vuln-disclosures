@@ -9,3 +9,5 @@ This repository contains information related to vulnerability disclosures done b
 | [CLVD-2020-03](CLVD-2020-03.md)  | November 10, 2020          |  [COVID-KAYA](https://play.google.com/store/apps/details?id=org.who.COVIDKAYA) (Web application)                |   Sensitive Data Disclosure    |      [Unmasked: COVID-KAYA and the Exposure of Healthcare Worker Data in the Philippines. ](https://citizenlab.ca/2020/11/unmasked-covid-kaya-and-the-exposure-of-healthcare-worker-data-in-the-philippines/)        |
 | [CLVD-2020-04](CLVD-2020-04.md)  |  November 10, 2020           |  [COVID-KAYA](https://play.google.com/store/apps/details?id=org.who.COVIDKAYA) version 1.4.7 (Android version code 10407)                |    Hard coded Credential    |      [Unmasked: COVID-KAYA and the Exposure of Healthcare Worker Data in the Philippines. ](https://citizenlab.ca/2020/11/unmasked-covid-kaya-and-the-exposure-of-healthcare-worker-data-in-the-philippines/)        |
 
+
+**NOTE**  In its current form this list of vulnerabilities presents a best effort to catalogue vulnerabilities from January 2020 onward.  Data from previous years may be back filled at a later date.
